@@ -1,2 +1,11 @@
-# E-Commerce-Sales-Forecast
-Time Series model (Prophet) to forecast retail sales, optimizing inventory and staffing decisions.
+# 📈 E-Commerce Sales Forecasting with Meta's Prophet
+[![Built with Python]...
+[![Status]...
+[![License: MIT]...
+
+##  
+
+![90-Day E-Commerce Sales Forecast Plot](sales_forecast_plot.png)
+
+## Project Goal: Optimizing Inventory and Staffing
+...
